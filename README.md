@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SyamalaNaiduGade
 - 👀 I’m interested in Data.
-- 🌱 I’m currently learning Microsoft Fabric.
+- 🌱 I’m currently learning Microsoft Fabric Data Engineering.
 - 💞️ I’m looking to collaborate on Data Engineering projects
 - 📫 How to reach me - drop a mail to syamalanaidugade56@gmail.com
 - 😄 Pronouns: He/Him
